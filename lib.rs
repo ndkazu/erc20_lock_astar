@@ -307,7 +307,7 @@ mod erc20 {
             let amount = locked.amount;
             let start = locked.lock_time;
             let end = Self::env().block_timestamp();
-            let delta = ((end-start)/60)/60;
+            let delta = (((end-start)/60)/60)/24;
             if delta > 10 {
                 self.transfer_from_to(&pot,&caller,amount);
           

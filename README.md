@@ -24,7 +24,7 @@ Example:
 
 The user has locked 100 tokens.
 Then, he claims this tokens back in the 8th day
-So, he will receive 90% of his tokens (90 tokens) and remaining part (10% or 10 tokens) go to ZrtCzXdPDvi8ngmrb8SFxLfRbCoQWHZw2mY57RMZBnuYSNR
+So, he will receive 85% of his tokens (85 tokens) and remaining part (15% or 15 tokens) go to ZrtCzXdPDvi8ngmrb8SFxLfRbCoQWHZw2mY57RMZBnuYSNR
 
 Locking period for the test: 10 full days
 
